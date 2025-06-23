@@ -1,0 +1,3 @@
+[submodule "webui-vue"]
+	path = webui-vue
+	url = ./webui-vue/
